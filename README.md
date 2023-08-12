@@ -14,5 +14,6 @@ Install Python Libary Command..
 ## Execution Command
 
 ```bash
-  python script.py --input resume_dir --output output_dir
+  python script.py --input "Resume Directory Path" --output "Output Directory Path"
+  Example: python script.py --input resume_dir --output output_dir
 ```
