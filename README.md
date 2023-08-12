@@ -10,3 +10,9 @@ Install Python Libary Command..
 ```bash
   pip install requirements.txt
 ```
+
+## Execution Command
+
+```bash
+  python script.py --input resume_dir --output output_dir
+```
